@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\MrBBlueSky\source\TievolPractica-dev_seba\Tievol\obj\Debug\netcoreapp3.1\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Telerik.UI.for.Blazor" Path="C:\Users\MrBBlueSky\.nuget\packages\telerik.ui.for.blazor\2.21.0\build\..\staticwebassets\" />
+</StaticWebAssets>
